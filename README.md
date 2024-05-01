@@ -18,5 +18,12 @@ There are a number of other great uses for Github, so I will cover the basics be
 Github is already ubiquitous in the software development world, why should you, as biologists be interested in using this as your main project management resources?
 
 Here are a few reasons:
-* Your can work using very low-level, fully customizable commands, all the way up to the modern conveniences of any other project management software
-* 
+* You can be incredibly detailed, or high level in your "issues" 
+* You can collaborate with anyone who has an internet connection
+* You can allow anyone to contribute to your projects (even [via email](https://fire.fundersclub.com/) if you want)
+* Every step in your project can be timed, and even automatically brought to your attention when you need to complete them
+* You can easily access your previous versions
+* Everything you need for a publication can be hosted in one area
+* A million and a half more reasons
+
+  
