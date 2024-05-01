@@ -29,4 +29,4 @@ Here are a few reasons:
 
 As we walk through Github, feel free to ask any questions, or better yet, find this repository and make a pull request/add a comment/otherwise interact. 
 
-The best way to learn is to do!
+The best way to learn is to do! :)
