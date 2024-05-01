@@ -23,6 +23,7 @@ Here are a few reasons:
 * You can allow anyone to contribute to your projects (even [via email](https://fire.fundersclub.com/) if you want)
 * Every step in your project can be timed, and even automatically brought to your attention when you need to complete them
 * You can easily access your previous versions
+* Any coding can be done via Copilot
 * Everything you need for a publication can be hosted in one area
 * A million and a half more reasons
 
